@@ -18,4 +18,4 @@ readme 中有很多要说的，今天刚开源还没来及更新，晚些慢慢�
 
 ### Nest.js 实战系列三-手把手带你-实现注册、扫码登录、jwt认证等
  文章地址： 首发公众号(后面更新github和掘金)
- < img width="690" alt="image" src="https://user-images.githubusercontent.com/52817889/158059624-06c76d8a-118f-41e0-9d66-c87b59b0a162.png">
+ ![https://user-images.githubusercontent.com/52817889/158059624-06c76d8a-118f-41e0-9d66-c87b59b0a162.png](https://user-images.githubusercontent.com/52817889/158059624-06c76d8a-118f-41e0-9d66-c87b59b0a162.png)
